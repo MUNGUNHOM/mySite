@@ -9,6 +9,6 @@ public class Acontroller {
 	@GetMapping("/a")
 	@ResponseBody
 	public String helloSpring() {
-		return "반가워요~!";
+		return "반가워요~!!";
 	}
 }
